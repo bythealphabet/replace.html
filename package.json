@@ -1,0 +1,13 @@
+{
+  "name": "html-email",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.mjs"
+  },
+  "dependencies": {
+    "line-reader": "^0.4.0",
+    "replace-in-file": "^6.3.2"
+  }
+}
